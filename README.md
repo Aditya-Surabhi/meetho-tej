@@ -1,6 +1,6 @@
 # meetho-tej
 
-Everything behind the reels on [@meetho.tej](https://www.instagram.com/meetho.tej/), a series called **Deep Things**. Built in public.
+Everything behind the content on [@meetho.tej](https://www.instagram.com/meetho.tej/), a series called **Deep Things**. Built in public.
 
 Curious about the deep things in life, said out loud, in Telugu.
 
