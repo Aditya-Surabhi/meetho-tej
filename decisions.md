@@ -25,3 +25,7 @@ Each entry: the decision, why, and the tradeoff I accepted.
 ## November 11, 2026: Build in public
 
 **Why:** to show how I think about a product, with a plan, experiments and decisions in the open. **Tradeoff:** more exposure. Personal and private matters stay out, only the product thinking is shared.
+
+## November 11, 2026: Cut from five pillars to four
+
+**Why:** five topic areas was too much to hold in my head for a 100 day run, and a wide menu makes it easier to stall. The pillar I cut, taste (wine, art, aesthetics), is the one furthest from the rest. **Tradeoff:** a narrower range of topics. It is parked, not deleted, and can come back after the first month if the four feel easy.

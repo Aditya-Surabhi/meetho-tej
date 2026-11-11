@@ -20,15 +20,14 @@
 
 **Voice:** calm, specific, a little dry, a smile at the end. Quiet confidence, not a lecture.
 
-## Five Pillars
+## Four Pillars
 
 1. **How people work:** psychology, wiring, types.
 2. **How to live on purpose:** identity, values, time.
 3. **People and love:** friendship, connection, family.
 4. **Body and mind:** sport, flow, focus.
-5. **Taste:** wine, art, aesthetics.
 
-**The lens across all five:** many Telugu men rarely talk about the deep emotional side of things. I can be one who does it out loud, in Telugu, and gives other people permission. This is not a sixth pillar. It is how every pillar gets said: honestly, quietly, with feeling, never as a lecture.
+**The lens across all four:** many Telugu men rarely talk about the deep emotional side of things. I can be one who does it out loud, in Telugu, and gives other people permission. This is not a sixth pillar. It is how every pillar gets said: honestly, quietly, with feeling, never as a lecture.
 
 ## Reel Format (25 to 45 seconds, spoken, one idea)
 
