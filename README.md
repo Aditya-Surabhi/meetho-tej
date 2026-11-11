@@ -4,6 +4,8 @@ Everything behind the reels on [@meetho.tej](https://www.instagram.com/meetho.te
 
 Curious about the deep things in life, said out loud, in Telugu.
 
+**Watch the reels: [instagram.com/meetho.tej](https://www.instagram.com/meetho.tej/)**
+
 The Instagram page is the product. This repo is how I run it: the plan, the experiments, the decisions and what I learn each month.
 
 ## Product thinking
@@ -14,6 +16,7 @@ The Instagram page is the product. This repo is how I run it: the plan, the expe
 4. [Experiments](experiments.md): one hypothesis per reel, results at the monthly check.
 5. [Decision Log](decisions.md): what I decided, why, and the tradeoff.
 6. [Build Log](build-log/): one entry a month.
+7. [Daily Log](build-log/daily-log.md): one line a day, what I did or learned.
 
 ## Research and scripts
 
