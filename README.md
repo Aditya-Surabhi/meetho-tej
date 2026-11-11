@@ -1,4 +1,4 @@
-# meetho-tej-reels
+# meetho-tej
 
 Everything behind the reels on [@meetho.tej](https://www.instagram.com/meetho.tej/), a series called **Deep Things**.
 
