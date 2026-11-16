@@ -39,14 +39,14 @@ Both are true: I want a lot of money, and a new account needs time. So I measure
 
 ## The Voice
 
-Calm. Specific. A little dry. A smile at the end. Quiet confidence, never a lecture. I ask questions more than I give answers.
+Calm. Specific. A little dry. A smile at the end. Quiet confidence, never a lecture.
 
 ## What This Is Not
 
 1. Not a guru channel. I offer a perspective, not answers.
 2. Not a race against anyone's grid. "What better can I do" has no finish line. "What can I finish by Sunday" does.
 3. Not a perfect reel. The first six are allowed to be mediocre.
-4. Not a place for my origin story. I say what I notice, never where it started.
+4. Not the place for my origin story, yet. It comes out some day, when I choose.
 
 ## When I Feel Lost, Ask Three Questions
 

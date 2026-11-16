@@ -9,6 +9,6 @@ Each reel tests one thing. Results are filled in at the monthly check, not befor
 
 ## How I judge a result
 
-1. Sends and replies first. Reels published second. Views last.
+1. Shares and replies first. Reels published second. Views last.
 2. One reel is noise. I look for a pattern across a month.
 3. A format is dropped only after at least three reels, never on one bad day.
