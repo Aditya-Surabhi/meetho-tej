@@ -16,6 +16,7 @@ Everything behind [@meetho.tej](https://www.instagram.com/meetho.tej/), a series
 4. [Ideas](ideas.md): the idea bank and the parking lot.
 5. [Experiments](experiments.md): what each reel tests, and what the monthly reviews show.
 6. [Decisions](decisions.md): what I decided, why, and the tradeoff.
+7. [How I Make a Reel](How%20I%20Make%20a%20Reel.md): the routine, the look, and the AI editor I built to make it.
 
 ## Research and scripts
 

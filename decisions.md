@@ -45,3 +45,19 @@ Each entry: the decision, why, and the tradeoff I accepted.
 ## November 16, 2026: Cut from four pillars to two
 
 **Why:** the mission is about people, how they see themselves and the people they love. Two pillars match it exactly: How people work (inside a person) and How people connect (between people). Two are easy to hold in my head. **Tradeoff:** How to live on purpose and Body and mind are parked, not deleted. They can come back after Day 100 or as an occasional reel.
+
+## November 17, 2026: Build my own AI editor instead of learning Premiere
+
+**Why:** I'm not a video editor, and editing by hand was the step most likely to stop me shipping twice a week. Claude Code with free local tools (ffmpeg, Whisper, Chrome) can cut retakes, caption, grade and render from a plain-English brief, and it learns my style each round. Before every render it shows me a storyboard, so I approve the plan, not just the result. **Tradeoff:** no live timeline to drag things around, and each change is a re-render. Premiere stays an option if I keep wishing for hand control.
+
+## November 17, 2026: The final script is the source of truth, not the transcript
+
+**Why:** speech-to-text is unreliable on Telugu and Tenglish. So the editor uses Whisper only for timing, and every caption comes from my approved script. **Tradeoff:** a little more work per reel to match lines to the take, in exchange for captions that never put words in my mouth.
+
+## November 17, 2026: English captions, Telugu voice
+
+**Why:** a Telugu speaker doesn't need captions; anyone else does, and so does everyone watching on mute. English reaches both. **Tradeoff:** viewers who read only Telugu get nothing on screen. The voice stays Telugu, which is the point.
+
+## November 17, 2026: A visual style of my own: warm light, a book serif, Indian art
+
+**Why:** I studied six creators whose reels I like and kept what fits me: warm low light with my face as shot and the room in shadow, captions in Baskerville (a book serif, calm and literary), quiet dissolves instead of flashes, and image cutaways from public-domain Indian art (Ravi Varma, Mughal and Pahari miniatures, Kalamkari) instead of stock photos. **Tradeoff:** the look depends on how I light the room, and every image needs its licence checked. Worth it: nobody in my space looks like this.
