@@ -1,14 +1,14 @@
 # How I Make a Reel
 
-The routine behind every Deep Things reel, from idea to post. I'm not a video editor, so the editing is done by an AI editor I built with Claude Code. I direct it in plain English.
+The routine behind every Deep Things reel, from idea to post. I'm not a video editor, so the editing is done by an AI editor I built with Claude Code. I direct it in plain English. A filming assistant, built the same way, plans and checks each shoot.
 
 ## The nine steps
 
 1. **Pick the idea.** From the [idea bank](ideas.md), in one of the two pillars. A rare type of person who is both X and Y.
 2. **Write it in my words.** I draft in Telugu and Tenglish. Claude tightens it and shows exactly what changed. One visual hook goes in. When I say "final", it moves to [scripts/](scripts/).
-3. **Set the room.** Evening, lamps on, window beside me (not behind), a plain or dark wall, phone close, face in the upper third, iPhone HDR off.
-4. **Record.** Start with the hook. Two reels in one sitting. Retakes are fine: the last clean take wins.
-5. **Hand it to the editor.** The raw take goes into the editor's project folder, and I say "edit reel N".
+3. **Plan and set up the shoot.** My filming assistant turns the final script into cards for my phone: the setup, where my head sits, every line phrase by phrase, and the short clips to film. Evening, two warm lamps (one on my face, one glowing behind me), main lights off, nothing bright behind me. Back camera at arm's length, 4K, iPhone HDR off. A ten-second test first: the assistant says go, or what to fix.
+4. **Record.** Start with the hook. Two reels in one sitting. One phrase at a time with a breath between, so the editor can cut on every phrase. Retakes are fine: the last clean take wins. Then the short clips.
+5. **Hand it to the editor.** The filming assistant checks the footage, makes sure every line is there, and copies the files into the editor's project folder. Then I say "edit reel N".
 6. **Approve the storyboard.** Before anything renders, the editor shows me every moment: what I say, the caption, any image, the transition. Notes in plain English. Nothing renders before my yes.
 7. **Review the cut.** I watch it on my phone. One round of notes makes one new version; nothing is overwritten.
 8. **Post it.** The editor hands me the video, a cover, a caption draft and the image credits. I add music in Instagram and publish myself.
@@ -28,5 +28,12 @@ The routine behind every Deep Things reel, from idea to post. I'm not a video ed
 3. **Cuts:** trims dead air to a calm pause, and protects the pauses that matter.
 4. **Designs:** draws captions, the title and image cards in a headless browser, grades the picture and mixes the sound to Instagram loudness, with ffmpeg.
 5. **Shows its plan:** a visual storyboard first, then a render, a review sheet and a cover.
+
+## What the filming assistant does
+
+1. **Plans:** turns the final script into cards for my phone: the setup, the light, where my head sits, every line split into phrases with where to lean in or pause, and the clips to film.
+2. **Tests:** checks a ten-second clip before I record: 4K and HDR off, how big my face is and where my eyes sit, whether my face is brighter than the room, and how quiet the room is. The targets come from measuring the reels I learn from.
+3. **Checks:** after the shoot, makes sure every script line was said and every clip is there.
+4. **Hands over:** copies the files to the editor with clear names. My originals stay where they are.
 
 Everything runs on my own laptop with free tools. My footage never leaves it.
