@@ -61,3 +61,13 @@ Each entry: the decision, why, and the tradeoff I accepted.
 ## November 17, 2026: A visual style of my own: warm light, a book serif, Indian art
 
 **Why:** I studied six creators whose reels I like and kept what fits me: warm low light with my face as shot and the room in shadow, captions in Baskerville (a book serif, calm and literary), quiet dissolves instead of flashes, and image cutaways from public-domain Indian art (Ravi Varma, Mughal and Pahari miniatures, Kalamkari) instead of stock photos. **Tradeoff:** the look depends on how I light the room, and every image needs its licence checked. Worth it: nobody in my space looks like this.
+
+## November 18, 2026: As shot, my own clips, fewer cuts, a Telugu sign-off
+
+**Why:** making Reel 2 changed parts of the November 17 style.
+- **As shot:** the plain footage looked better than any grade, so the picture now stays exactly as my phone shows it.
+- **My own clips:** the paintings didn't fit yet, so cutaways are short clips I film the same evening.
+- **Fewer cuts:** a cut on every phrase felt jumpy, so the editor now cuts only where something is removed, about every four to five seconds.
+- **Telugu sign-off:** it moved to Telugu script, మీతో. మీ తేజ., the words I actually say.
+
+**Tradeoff:** the look now depends entirely on the light I set up on the night, and the pace is calmer than the creators I learned from. Worth it: it looks like me, and calm is the brand.
