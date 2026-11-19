@@ -26,3 +26,4 @@ New ideas feel like progress. They are usually procrastination wearing a nicer j
 1. **Taste: wine, art, aesthetics.** Removed as a fifth pillar on November 11, 2026 because five was too much. Comes back only after December 3, and only if the two pillars feel easy.
 2. **How to live on purpose: identity, values, time.** Parked as a pillar on November 16, 2026, to focus on two. Can come back as an occasional reel.
 3. **Body and mind: sport, flow, focus.** Parked as a pillar on November 16, 2026.
+4. **Big Five deep dives.** Reels that explain the Big Five traits (openness, conscientiousness, extraversion, agreeableness, neuroticism) inside Deep Things, not as a new series. Parked November 19, 2026; revisit after the December 9 check. Until then the Big Five only helps pick types, off camera.

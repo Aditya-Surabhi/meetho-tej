@@ -12,7 +12,7 @@ Day 1 was November 9, 2026. Day 100 is February 14, 2027.
 
 **Platform:** Instagram reels only. YouTube starts after Day 100. Until then, Instagram only.
 
-**Handle:** @meetho.tej (a new account, separate from my existing one). Sign-off on every reel: "మీతో. మీ తేజ."
+**Handle:** @meetho.tej (a new account, separate from my existing one). Sign-off on every reel: "మీతో. మీ తేజ." on a silent end card. It is no longer spoken (from November 19, 2026).
 
 **Series name on screen:** Deep Things. Each episode is self contained; they just share a name.
 
@@ -54,7 +54,7 @@ Phone, a cheap tripod, window light. No ring light, no mic, no setup to buy firs
 4. **One personal line** from my own life, in my own words.
 5. **The send line.** "If you know someone like this, send them this."
 
-**Our flavour on top of the shape:** Telugu and Tenglish, the series line said aloud ("This is Deep Things. Today, ..."), "thank them", a one second pause and smile, then the sign-off.
+**Our flavour on top of the shape:** Telugu and Tenglish, the series line said aloud near the end ("Idi Deep Things. Ee roju, ..."), the send line, a follow line, then the silent sign-off card.
 
 **On screen (the text added in the edit):** short English captions, one word or phrase at a time as I say it, so non Telugu viewers can follow. The cover title names the type (for example "The Soft Strong One") and is what shows in the grid. No day counter on screen. The 100 days are my target, not part of the reel.
 
