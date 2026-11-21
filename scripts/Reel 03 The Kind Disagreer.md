@@ -1,6 +1,6 @@
 # Reel 3 Final: The Kind Disagreer
 
-*Made November 19, 2026, when I asked for the final draft of Reel 3 to be pushed. The script is my Draft 2, built with Claude from my Draft 1 notes, word for word. "(clear-ga)" is optional: I decide on camera.*
+*Made November 19, 2026, when I asked for the final draft of Reel 3 to be pushed. The script is my Draft 2, built with Claude from my Draft 1 notes, word for word. "(clear-ga)" is optional: I decide on camera. Updated November 20, 2026: added "పెద్దవాళ్ళు emaina cheppaka," the line I said on camera.*
 
 **Series:** Deep Things. **Pillar:** How people work. **Length:** about 30 s.
 **Format:** talking head, a type of person, one idea explained, the send line and a follow line. No spoken sign-off; the sign-off card stays.
@@ -11,7 +11,7 @@
 
 Mee intlo kuda idi jarugutunda?
 
-Dinner table దగ్గర అందరూ "సరే" అంటారు, kani ఒక్క person మాత్రం calm ga "Naaku konchem different ga anipistundi" antaru.
+Dinner table దగ్గర, పెద్దవాళ్ళు emaina cheppaka, అందరూ "సరే" అంటారు, kani ఒక్క person మాత్రం calm ga "Naaku konchem different ga anipistundi" antaru.
 
 Ala enduku anipistundo (clear-ga) cheptaru. Mee maata kuda poortiga vintaru.
 
@@ -28,7 +28,7 @@ Idi Deep Things. Ee roju, the kind disagreer.
 ## On screen (English, 2 to 4 words at a time, as I say them)
 
 1. Does this happen / at your home too?
-2. At the dinner table, / everyone says okay. / One person calmly says, / "I see it a little differently."
+2. At the dinner table, / when the elders say anything, / everyone says okay. / One person calmly says, / "I see it a little differently."
 3. They explain / why they feel that way. / And they hear you / out fully.
 4. They disagree / with your idea. / Not with *you*. (the italic keyword)
 5. Winning the argument / doesn't matter to them. / Speaking their heart does.
