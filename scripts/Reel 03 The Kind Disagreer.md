@@ -28,7 +28,7 @@ Idi Deep Things. Ee roju, the kind disagreer.
 ## On screen (English, 2 to 4 words at a time, as I say them)
 
 1. Does this happen / at your home too?
-2. At the dinner table, / when the elders say anything, / everyone says okay. / One person calmly says, / "I see it a little differently."
+2. At the dinner table, / when the elders / say anything, / everyone says okay. / One person calmly says, / "I see it a little differently."
 3. They explain / why they feel that way. / And they hear you / out fully.
 4. They disagree / with your idea. / Not with *you*. (the italic keyword)
 5. Winning the argument / doesn't matter to them. / Speaking their heart does.
