@@ -12,7 +12,15 @@ Day 1 was November 9, 2026. Day 100 is February 14, 2027.
 
 **Platform:** Instagram reels only. YouTube starts after Day 100. Until then, Instagram only.
 
-**Handle:** @meetho.tej (a new account, separate from my existing one). Sign-off on every reel: "మీతో. మీ తేజ." on a silent end card. It is no longer spoken (from November 19, 2026).
+**Handle:** @meetho.tej (a new account, separate from my existing one). **Display name:** TejAditya (changed November 2026). Sign-off on every reel: "మీతో. మీ తేజ." on a silent end card. It is no longer spoken (from November 19, 2026).
+
+**Bio (draft, November 25, 2026):**
+> మీతో. మీ తేజ.
+> Deep Things: పేరు తెలియని feelings గురించి
+> One type of person at a time
+> Send one to someone 👇
+
+The Telugu line is a draft; check the wording before it goes on the profile.
 
 **Series name on screen:** Deep Things. Each episode is self contained; they just share a name.
 
