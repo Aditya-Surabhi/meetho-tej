@@ -52,7 +52,7 @@ No cutaway clips are planned.
 
 > The Compounder. From outside it looks like luck. Behind it: small effort, every day, and a restart after every miss.
 > Format inspired by @nategaffney.
-> #telugu #deepthings #psychology
+> #telugu #deepthings
 
 ---
 
